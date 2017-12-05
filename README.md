@@ -182,7 +182,7 @@ A guide for programming well.
   brace on its own line
 - Indent continued lines two spaces
 - Indent private methods equal to public methods
-- If you break up a chain of method invocations, keep each method invocation on its own line. Place the `.` at the end of each line, except the last. [Example][dot guideline example].
+- If you break up a chain of method invocations, keep each method invocation on its own line. Place the `.` at the end of each line, except the last
 - Use 2 space indentation (no tabs)
 - Use an empty line between methods
 - Use empty lines around multi-line blocks
@@ -191,7 +191,6 @@ A guide for programming well.
 - Use [Unix-style line endings][newline explanation] (`\n`)
 - Use [uppercase for SQL key words and lowercase for SQL identifiers]
 
-[dot guideline example]: /style/ruby/sample.rb#L11
 [uppercase for SQL key words and lowercase for SQL identifiers]: http://www.postgresql.org/docs/9.2/static/sql-syntax-lexical.html#SQL-SYNTAX-IDENTIFIERS
 [newline explanation]: http://unix.stackexchange.com/questions/23903/should-i-end-my-text-script-files-with-a-newline
 
